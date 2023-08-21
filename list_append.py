@@ -1,6 +1,5 @@
-list = []
 
-list.append('ud')
-
+list= []
+for i in range(5):
+     list.append(i)
 print(list)
-
