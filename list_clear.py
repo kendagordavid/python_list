@@ -6,3 +6,5 @@ numbers.clear()
 print(numbers)
 
 '''Expected output : []'''
+
+# love python
